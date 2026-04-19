@@ -1,16 +1,54 @@
-## Hi there 👋
+## 👋 Hi, I'm iVyz3r
 
-<!--
-**iVyz3r/iVyz3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 C++ Developer focused on low-level systems, reverse engineering and graphics APIs.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ What I do
+- 🔧 Windows internals & memory manipulation
+- 🎯 Hooking techniques (VTable, Detours, Trampoline, Inline)
+- 🧠 Reverse engineering & debugging
+- 🖥️ Graphics API work:
+  - DirectX 9 / 10 / 11 / 12
+- 🎮 Game internals analysis
+
+---
+
+### 🚀 Current Focus
+- Internal architectures for modular systems
+- Rendering overlays with ImGui
+- Memory scanning & pattern finding
+- Performance-oriented C++ design
+
+---
+
+### 🧰 Tech Stack
+- **Languages:** C++, C
+- **Libraries:** ImGui, MinHook
+- **Tools:** Cheat Engine, Process Hacker, x64dbg
+- **APIs:** WinAPI, DirectX
+
+---
+
+### 📚 Always Learning
+- Advanced rendering pipelines
+- Anti-detection techniques
+- Engine-level optimizations
+
+---
+
+### 🤝 Collaboration
+Open to working on:
+- Low-level C++ projects
+- Graphics / rendering systems
+- Tooling & debugging utilities
+
+---
+
+### 📫 Contact
+- Discord: *(add here if you want)*
+
+---
+
+### ⚡ Fun Fact
+I enjoy breaking things apart just to understand how they work… and then rebuilding them better.
