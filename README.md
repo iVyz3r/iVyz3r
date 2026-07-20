@@ -31,11 +31,3 @@ Low-level C++ developer with a passion for internals, memory manipulation, and r
 
 💬 Discord: **nqtvyzer#0000**  
 *(Feel free to reach out – I'm open to collabs, questions, or just tech talk.)*
-
----
-
-### 🧠 Currently Exploring
-
-- Kernel-mode drivers for Windows  
-- Anti-debug & anti-tampering countermeasures  
-- Vulkan & DX12 advanced rendering techniques  
